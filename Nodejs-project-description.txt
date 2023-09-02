@@ -1,0 +1,83 @@
+Documentation of Task Management Application 
+============================================
+
+> In order to see the output first we need to create a 
+  schema in MYSQL DB.
+  ex:
+	MySQL> create schema demo;
+	MySQL> use demo;
+
+> create table in MYSQL database inside demo schema.
+
+  ex:
+	MySQL> create table task(id int(3) AUTO_INCREMENT,
+		title varchar(15),
+		description varchar(20),primary key(id));
+
+
+> To create React component we have install following libraries.
+  ex:
+	frontend> npm install bootstrap
+    	frontend> npm install react-router-dom
+	frontend> npm install axios 
+	frontend> npm install @testing-library/react 
+		  react-test-renderer@testing-library/jest-dom --save-dev
+		
+
+> To create Node application we have install following modules.
+  ex:
+	backend> npm install mysql   
+	backend> npm install express
+	backend> npm install body-parser
+	backend> npm install cors
+
+
+> To run the nodejs application we need to use below command.
+  ex:
+	backend> node server.js 
+
+> To run the react application we need to use below command.
+  ex:
+	frontend> npm start 
+
+> To run the test cases use below command.
+  ex:
+	npm test
+
+> You can clone the project by using below git URL.
+  ex:
+
+	git clone https://github.com/sowmyaEeri/task-management-app
+
+Please refer :
+---------------
+
+GIT URL : 
+
+https://github.com/sowmyaEeri/task-management-app
+
+Hosted URL: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
