@@ -47,14 +47,14 @@ Documentation of Task Management Application
 > You can clone the project by using below git URL.
   ex:
 
-	git clone https://github.com/Prakashabbi/demo
+	git clone https://github.com/Prakashabbi/demo.git
 
 Please refer :
 ---------------
 
 GIT URL : 
 
-https://github.com/Prakashabbi/demo
+https://github.com/Prakashabbi/demo.git
 
 Hosted URL: 
 
